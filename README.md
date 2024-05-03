@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BinhTran-HCMUT&label=Profile%20views&color=0e75b6&style=flat" alt="BinhTran-HCMUT" /> </p>
 
 
-- 🔭 I’m currently working on **AI Engineering (Natural Language Processing)**
+- 🔭 I’m currently working on **AI Engineering (Natural Language Processing) and Software Engineering**
 
 - 🌱 I’m currently learning **Large Language Models**
 
-- 👯 I’m looking for careers on **AI/ML Engineering**
+- 👯 I’m looking for careers on **AI/ML Engineering and Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BinhTran-HCMUT](https://github.com/BinhTran-HCMUT)
 
-- 💬 Ask me about **Machine Learning, Data Science**
+- 💬 Ask me about **Machine Learning, Data Science, Software Engineering**
 
 - 📫 How to reach me **binh.tran0611csbk@hcmut.edu.vn**
 
